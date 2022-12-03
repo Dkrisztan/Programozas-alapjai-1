@@ -1,0 +1,6 @@
+Határidőnapló
+
+A programom egy nyilvántartás jellegű határidőnapló, amely rekordokban tárol eseményeket
+és ezeknek az adatait (név, helyszín, megjegyzés, dátum, pontos idő). Eseményeket létrehozni
+a menün belül lehet, ezek egy külön mappában tárolódnak. Lehetőség van bármely
+esemény törlésére, illetve azoknak az időrendi (nap, hét, hónap) kilistázására.
